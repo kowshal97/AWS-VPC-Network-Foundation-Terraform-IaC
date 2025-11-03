@@ -20,6 +20,7 @@ Creating these manually in AWS Console again and again is:
 - Hard to reproduce across environments (dev/staging/prod)
 
 By building this as **Infrastructure-as-Code**:
+
 ✔️ I can deploy the same architecture consistently  
 ✔️ I avoid clicking around the console  
 ✔️ I can reuse it in any future project  

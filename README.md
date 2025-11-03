@@ -97,3 +97,4 @@ This is a **production-ready, multi-AZ architecture**, not just a demo.
 terraform init
 terraform plan
 terraform apply -auto-approve
+terraform destroy -- to destroy all the resource
